@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: 'About Us',
   description:
     'Outpro.India is a full-service digital agency based in New Delhi, India. ' +
-    'Founded in 2018, we help businesses build digital presence that drives real growth.',
+    'Founded in 2026, we help businesses build digital presence that drives real growth.',
   openGraph: {
     title: 'About Outpro.India',
     description: 'Meet the team behind 150+ successful digital projects.',

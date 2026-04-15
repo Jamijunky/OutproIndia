@@ -89,7 +89,7 @@ export function HeroSection() {
           <motion.div variants={stagger.item} className="mb-6">
             <span className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-brand-600/30 bg-brand-600/10 text-xs font-medium text-brand-300 uppercase tracking-widest">
               <span className="w-1.5 h-1.5 rounded-full bg-accent-500 animate-pulse-slow" />
-              Delhi · India · Est. 2018
+              Delhi · India · Est. 2026
             </span>
           </motion.div>
 
